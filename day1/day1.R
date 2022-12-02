@@ -1,4 +1,4 @@
-inp <- readLines("day1.txt")
+inp <- readLines("day1/day1.txt")
 elves <- c(0)
 last_index <- 0
 for (i in inp) {
